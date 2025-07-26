@@ -46,6 +46,27 @@ Recipe-AI-Easy-Recipes/
         └── components.py     # Streamlit UI components
 ```
 
+## Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main.png)
+*The Recipe AI main interface showing ingredient input, equipment selection, and configuration options*
+
+### Recipe Generation
+![Recipe Generation](screenshots/recipe.png)
+*A complete generated recipe with detailed instructions, nutrition information, and cooking tips*
+
+### Shopping List & Tips  
+![Shopping List](screenshots/list.png)
+*Automatically generated shopping list with missing ingredients*
+
+![Shopping List Details](screenshots/list2.png)
+*Detailed shopping list with priority indicators and organization*
+
+### Cooking Process
+![Cooking Process](screenshots/cooking.png)
+*Step-by-step cooking instructions with equipment-specific guidance*
+
 ## Getting Started
 
 ### Installation and Setup
@@ -102,28 +123,6 @@ The application provides comprehensive recipe information including:
 - Shopping lists for missing ingredients with priority indicators
 - Equipment-specific cooking guidance and optimization tips
 - Storage recommendations and recipe variations
-
-## Screenshots
-
-### Main Interface
-![Main Interface](screenshots/main.png)
-*The Recipe AI main interface showing ingredient input, equipment selection, and configuration options*
-
-### Recipe Generation
-![Recipe Generation](screenshots/recipe.png)
-*A complete generated recipe with detailed instructions, nutrition information, and cooking tips*
-
-### Shopping List & Tips  
-![Shopping List](screenshots/list.png)
-*Automatically generated shopping list with missing ingredients*
-
-![Shopping List Details](screenshots/list2.png)
-*Detailed shopping list with priority indicators and organization*
-
-### Cooking Process
-![Cooking Process](screenshots/cooking.png)
-*Step-by-step cooking instructions with equipment-specific guidance*
-
 
 ## How It Works
 
